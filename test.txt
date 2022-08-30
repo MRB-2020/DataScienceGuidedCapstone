@@ -1,4 +1,7 @@
 testing if I got the repo fork/clone right
 
 
-Hurray, I can update files in the main GitHub and update it on my local repo
+Hurray, I can update files in the main GitHub and update it on my local repo!
+
+
+I also can modify the file on my local repo and commit the changes to main.
